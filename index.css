@@ -1,0 +1,44 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background-color: azure;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    list-style: none;
+    background-color: rgb(15, 15, 15);
+    font-family: 'Trebuchet MS';
+    padding: 50px;
+
+    
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.Article{
+    justify-content: space-around;
+    background-color: teal;
+    color: antiquewhite;
+    outline-color: yellowgreen;
+    font-family: 'Segoe UI';
+    width: 200px;
+    
+}
+
+.Location{
+    background-color: skyblue;
+    color: antiquewhite;
+    font-family: 'Segoe UI';
+}
